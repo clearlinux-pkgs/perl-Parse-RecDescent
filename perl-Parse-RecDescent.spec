@@ -4,7 +4,7 @@
 #
 Name     : perl-Parse-RecDescent
 Version  : 1.967015
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
 Summary  : 'Generate Recursive-Descent Parsers'
