@@ -4,7 +4,7 @@
 #
 Name     : perl-Parse-RecDescent
 Version  : 1.967015
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
 Summary  : 'Generate Recursive-Descent Parsers'
@@ -82,4 +82,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Parse/RecDescent.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Parse/RecDescent.pm
